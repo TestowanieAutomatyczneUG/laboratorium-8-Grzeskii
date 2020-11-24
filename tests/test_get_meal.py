@@ -3,7 +3,7 @@ import unittest
 from sample.GetMeal import GetMeal
 
 
-class TestSimple(unittest.TestCase):
+class TestGetMeal(unittest.TestCase):
 
     def setUp(self):
         self.temp = GetMeal()
